@@ -1,7 +1,8 @@
 # Author MB 01/13/2022
 
 def smash(lst):
-    sentence = ''
+    sentence = ' '
     for i, v in enumerate(lst):
-        if 
+        if i != 0:
+            
     
